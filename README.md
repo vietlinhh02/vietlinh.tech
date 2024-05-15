@@ -27,7 +27,6 @@ Ensure you have the following installed on your machine:
     npm install
     ```
 
-    ![Installation](https://via.placeholder.com/800x400.png?text=Install+Dependencies)
 
 ### Running the Application
 
@@ -37,7 +36,7 @@ npm start
 ```
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes.
 
-![Running Application](https://via.placeholder.com/800x400.png?text=Running+Application)
+
 
 ## Usage
 
@@ -58,7 +57,7 @@ To customize the content, navigate to the `/src/components/` directory and modif
     export default Header;
     ```
 
-    ![Header Component](https://via.placeholder.com/800x400.png?text=Header+Component)
+
 
 2. **About Component:**
 
@@ -75,7 +74,7 @@ To customize the content, navigate to the `/src/components/` directory and modif
     export default About;
     ```
 
-    ![About Component](https://via.placeholder.com/800x400.png?text=About+Component)
+
 
 ## Deployment
 
